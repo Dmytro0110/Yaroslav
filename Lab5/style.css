@@ -1,0 +1,119 @@
+.bg{
+    background-color: rgb(118, 212, 95);
+}
+.shap{
+    margin-top: 10px;
+}
+.login{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.div1{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about_me{
+    margin: 3px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 26);
+}
+.about_me_text{
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    color: rgb(0, 0, 26);
+}
+.hobby{
+    margin: 3px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 26);
+}
+.hobby_text{
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    color: rgb(0, 0, 26);
+}
+.programmer{
+    margin: 3px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 26);
+}
+.programmer_text{
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    color: rgb(0, 0, 26);
+}
+.blockk{
+    margin-top: 20px;
+}
+.photo1{
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+}
+.social{
+    margin: 3px;
+    border: solid green 2px;
+    border-radius: 7px;
+}
+.div2{
+    display: flex;
+    align-items: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    color: rgb(0, 0, 26);
+}
+.div3{
+    display: flex;
+    align-items: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    color: rgb(0, 0, 26);
+    
+}
+.my_lessons{
+    margin: 3px;
+    border: solid green 2px;
+    border-radius: 7px;
+}
+.div4{
+    display: flex;
+    align-items: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    color: rgb(0, 0, 26);
+}
+.food{
+    margin:3px;
+    border: solid green 2px;
+    border-radius: 7px;
+}
+.div5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(0, 0, 26);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+.info{
+    text-align: right;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 26);
+}

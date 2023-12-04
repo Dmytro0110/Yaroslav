@@ -1,0 +1,25 @@
+.bg{
+    background-color: cadetblue;
+}
+.shap{
+    background-color: yellow;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    border: solid rgb(146, 146, 1) 2px;
+    border-radius: 3px;
+}
+.text1{
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: rgb(0, 0, 15);   
+}
+.text2{
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    font-style: italic;
+    color: rgb(0, 0, 15);  
+}

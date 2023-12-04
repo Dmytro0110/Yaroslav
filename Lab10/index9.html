@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<img id="myImage" src="images/1.jpg" width="200" height="200">
+
+<button onclick="zoomIn()">Збільшити</button>
+
+<script>
+function zoomIn() {
+  var img = document.getElementById('myImage');
+  var width = img.clientWidth;
+  var height = img.clientHeight;
+  img.style.width = (width + 20) + 'px';
+  img.style.height = (height + 20) + 'px';
+}
+</script>
+
+</body>
+</html>

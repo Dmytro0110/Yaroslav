@@ -1,0 +1,44 @@
+.bg{
+    background-color: rgb(118, 212, 95);
+}
+.about_me{
+    margin: 3px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about_me_text{
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+}
+.hobby{
+    margin: 3px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hobby_text{
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+}
+.programmer{
+    margin: 3px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.programmer_text{
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+}
+.info{
+    text-align: right;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}

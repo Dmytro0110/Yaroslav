@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<img id="myImage" src="images/back.jpg" width="200" height="200">
+
+<script>
+var image = document.getElementById('myImage');
+var imageSources = ["images/1.jpg", "images/2.jpg", "images/3.jpg"]; 
+var currentIndex = 0;
+
+function changeImage() {
+  image.setAttribute('src', imageSources[currentIndex]);
+  currentIndex = (currentIndex + 1) % imageSources.length;
+}
+
+setInterval(changeImage, 2000); 
+
+</script>
+
+</body>
+</html>

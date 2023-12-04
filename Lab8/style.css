@@ -1,0 +1,139 @@
+.bg{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    border-bottom: solid rgb(0, 4, 255);
+}
+.navbar-brand {
+    font-size:x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav-link{
+    font-size: large;
+    font-family:"Franklin";
+} 
+.tabb{
+    width: 30%;
+    margin-left: 200px;
+}
+
+.bbb{
+    margin-left: 20px;
+}
+.div1{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about_me{
+    margin-top: 70px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 26);
+}
+.about_me_text{
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    color: rgb(0, 0, 26);
+}
+.hobby{
+    margin: 3px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 26);
+}
+.hobby_text{
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    color: rgb(0, 0, 26);
+}
+.programmer{
+    margin: 3px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 26);
+}
+.programmer_text{
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+    color: rgb(0, 0, 26);
+}
+.blockk{
+    margin-top: 20px;
+}
+.photo1{
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+}
+.social{
+    margin: 3px;
+    border: solid rgb(0, 4, 255);
+    border-radius: 7px;
+}
+.div2{
+    display: flex;
+    align-items: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    color: rgb(0, 0, 26);
+}
+.div3{
+    display: flex;
+    align-items: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    color: rgb(0, 0, 26);
+    
+}
+.my_lessons{
+    margin: 3px;
+    border: solid rgb(0, 4, 255);
+    border-radius: 7px;
+}
+.div4{
+    display: flex;
+    align-items: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    color: rgb(0, 0, 26);
+}
+.food{
+    margin:3px;
+    border: solid rgb(0, 4, 255) 2px;
+    border-radius: 7px;
+}
+.div5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(0, 0, 26);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+.poch{
+    text-align: right;
+    font-size: large;
+}
+.info{
+    border-top: solid rgb(0, 4, 255) 2px;
+    background-color: #0dcaf0;
+    text-align: right;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 26);
+}

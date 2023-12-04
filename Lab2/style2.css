@@ -1,0 +1,28 @@
+.bg{
+    background-color: rgb(118, 212, 95);
+}
+.name{
+    margin: 10px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    border-bottom: solid yellow 2px;
+}
+.div1-01{
+    font-weight: 500;
+    font-size: x-large;
+}
+.back{
+    text-align: right;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}

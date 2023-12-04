@@ -1,0 +1,52 @@
+.bg{
+    background-color: rgb(118, 212, 95);
+}
+.name{
+    margin: 10px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    
+}
+.universety_img{
+    width: 70px;
+    height: 50px;
+    margin: 3px;
+    border-radius: 2px;
+}
+.div_v_01{
+    border-bottom:2px solid  rgb(10, 119, 28); 
+}
+.div_v_1{
+    display: flex;
+    vertical-align: middle;
+    border-bottom:2px solid  rgb(10, 119, 28);
+}
+.div_v_1_no_border{
+    display: flex;
+    vertical-align: middle;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    border-bottom: solid yellow 2px;
+}
+.div1-01{
+    font-weight: 500;
+    font-size: x-large;
+}
+.photo2{
+    height:30px;
+    width: 30px;
+    border-radius: 5px;
+}
+.back{
+    margin: 10px;
+    text-align: right;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}

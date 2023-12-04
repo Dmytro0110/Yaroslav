@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Динамічне привітання</title>
+  <script>
+ 
+    function displayGreeting() {
+      var today = new Date();
+      var hour = today.getHours();
+      var greeting;
+
+      if (hour < 12) {
+        greeting = "Доброго ранку!";
+      } else if (hour < 18) {
+        greeting = "Доброго дня!";
+      } else {
+        greeting = "Доброго вечора!";
+      }
+
+      var greetingElement = document.getElementById("greeting");
+      greetingElement.innerHTML = greeting;
+      greetingElement.style.color = "white"; 
+      greetingElement.style.backgroundColor = "blue"; 
+    }
+  </script>
+</head>
+<body onload="displayGreeting()">
+  <h1 id="greeting"></h1>
+</body>
+</html>
